@@ -1,0 +1,89 @@
+{
+    "skills":[
+        {
+            "id" : 1,
+            "src" : "/image/product-chain-1.png",
+            "title" : "Frontend",
+            "descriptiom" : "Html css javascript..."
+        },
+        {
+            "id" : 2,
+            "src" : "/image/tag-1.png",
+            "title" : "Back-End",
+            "descriptiom" : "php laravel and connect C# to sql server"
+        },
+        {
+            "id" : 3,
+            "src" : "/image/feather-pen-2.png",
+            "title" : " Design",
+            "descriptiom" : "Phostoshop and creativity ..."
+        },
+        {
+            "id" : 4,
+            "src" : "/image/feather-pen-1.png",
+            "title" : "Webflow Development",
+            "descriptiom" : "Of course we know Webflow like the back of our hand..."
+        }
+    ],
+    "portfolio":[
+        {
+            "id" : 1,
+            "src" : "/image/1.png",
+            "title" : "Dynamic Website News",
+            "description" : "Website News Using PHP for backend",
+            "link": "View In Github"
+        },
+        {
+            "id" : 2,
+            "src" : "/image/Ecommersss.jpg",
+            "title" : "POST SYSTEM ",
+            "description" : "Ecommers store Pc using php  for backend",
+            "link": "View In Github"
+        },
+        {
+            "id" : 4,
+            "src" : "/image/KT.png",
+            "title" : "Backend myStore",
+            "description" : "Phone Store Backend ",
+            "link": "View In Github"
+        },
+        {
+            "id" : 4,
+            "src" : "/image/Posts.png",
+            "title" : "Backend myStore",
+            "description" : "The Pos using Laral javascript...",
+            "link": "View In Github"
+        }
+        
+      
+    ],
+    "testimonial":[
+        {
+            "id" : 1,
+            "count":"5",
+            "src" : "/image/css.png",
+            "title" : "Dynamic Website News",
+            "description" : "",
+            "author_name":"Forntend",
+            "author_designation":""
+        },
+        {
+            "id" : 1,
+            "count":"5",
+            "src" : "/image/laravelphp.png",
+            "title" : "",
+            "description" : "",
+            "author_name":"Backend",
+            "author_designation":" "
+        },
+        {
+            "id" : 1,
+            "count":"5",
+            "src" : "/image/ff.png",
+            "title" : "",
+            "description" : "",
+            "author_name":"backend",
+            "author_designation":""
+        }
+    ]
+}
